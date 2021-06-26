@@ -2,5 +2,5 @@
 
 Ejemplo de Funcionamiento
 
-![alt text](https://i.gyazo.com/510f0cb14a4d85a7802c05e2f0553580.gif)
+![alt text](https://i.gyazo.com/2af1899d80eda2c41c896eaa86632bb2.gif)
 
